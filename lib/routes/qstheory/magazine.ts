@@ -17,7 +17,7 @@ export const route: Route = {
         },
     ],
     name: '在线读刊',
-    maintainers: ['TonyRL', 'cscnk52'],
+    maintainers: ['TonyRL', 'cscnk52', 'zhangsan-xyz'],
     handler,
 };
 
