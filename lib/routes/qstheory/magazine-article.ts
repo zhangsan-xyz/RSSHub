@@ -22,7 +22,7 @@ export const route: Route = {
         },
     ],
     name: '文章',
-    maintainers: ['TonyRL', 'cscnk52'],
+    maintainers: ['zhangsan-xyz'],
     handler,
 };
 
